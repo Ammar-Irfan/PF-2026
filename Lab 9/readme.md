@@ -2,15 +2,15 @@
 ## 26k-2561
 ## Lab 9
 
-Task 1:
-<img width="307" height="700" alt="image" src="https://github.com/user-attachments/assets/2ab51a5a-5388-4bb1-9d90-19c38cd32eaf" />
+### Task 1:
+<img width="307" height="70" alt="image" src="https://github.com/user-attachments/assets/2ab51a5a-5388-4bb1-9d90-19c38cd32eaf" />
 
 
-Task 2:
-<img width="258" height="555" alt="image" src="https://github.com/user-attachments/assets/a58da680-25bb-4b75-a623-94e5e0742ac8" />
+### Task 2:
+<img width="258" height="55" alt="image" src="https://github.com/user-attachments/assets/a58da680-25bb-4b75-a623-94e5e0742ac8" />
 
 Task 3:
-<img width="259" height="520" alt="image" src="https://github.com/user-attachments/assets/301eb0a3-a70b-41b6-9b10-2157fd631eb7" />
+<img width="259" height="52" alt="image" src="https://github.com/user-attachments/assets/301eb0a3-a70b-41b6-9b10-2157fd631eb7" />
 
 
 Task 4:
